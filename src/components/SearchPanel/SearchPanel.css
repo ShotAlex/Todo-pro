@@ -1,0 +1,12 @@
+.search-panel {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-group-item {
+  flex-grow: 1;
+}
+
+.todo-list .list-group-item {
+  padding: 0.25rem .75rem;
+}
